@@ -1,0 +1,9 @@
+D:\VC2013\system_info\system_info\bin\Debug\system_info.exe.config
+D:\VC2013\system_info\system_info\bin\Debug\system_info.exe
+D:\VC2013\system_info\system_info\bin\Debug\system_info.pdb
+D:\VC2013\system_info\system_info\obj\Debug\system_info.Form1.resources
+D:\VC2013\system_info\system_info\obj\Debug\system_info.Properties.Resources.resources
+D:\VC2013\system_info\system_info\obj\Debug\system_info.csproj.GenerateResource.Cache
+D:\VC2013\system_info\system_info\obj\Debug\system_info.exe
+D:\VC2013\system_info\system_info\obj\Debug\system_info.pdb
+D:\VC2013\system_info\system_info\obj\Debug\system_info.csprojResolveAssemblyReference.cache
